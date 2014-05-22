@@ -5,6 +5,5 @@ public class HelloWorld {
 	}
 	public void toFlaunt(){
 		System.out.println("oh , ye !");
-		return ;
 	}
 }
